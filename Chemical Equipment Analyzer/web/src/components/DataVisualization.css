@@ -1,0 +1,13 @@
+.visualization-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.visualization-header h2 {
+  margin-bottom: 0;
+  flex: 1;
+}
