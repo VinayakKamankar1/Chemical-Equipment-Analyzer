@@ -475,9 +475,5 @@ This software is provided "as-is" for educational and demonstration purposes. Th
 
 ---
 
-## 🎉 Acknowledgments
 
-Thank you to all contributors and the open-source community for making this project possible!
-
-**Built with ❤️ for the Chemical Engineering Community**
 
